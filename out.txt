@@ -1,0 +1,4 @@
+CIS130,3,Spring
+CIS150,3,Spring
+MTH110,4,Spring
+CIS131,4,Javascript

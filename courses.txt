@@ -1,0 +1,10 @@
+'''
+Leah
+11\27\2018
+Practice
+'''
+
+CIS130,3,Spring
+CIS150,3,Spring
+MTH110,4,Fall
+
