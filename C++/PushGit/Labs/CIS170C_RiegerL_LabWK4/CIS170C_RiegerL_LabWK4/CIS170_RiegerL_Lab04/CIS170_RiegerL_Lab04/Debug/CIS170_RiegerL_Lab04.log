@@ -1,0 +1,3 @@
+﻿  CIS170C_RiegerL_LabWK04_Source.cpp
+C:\Users\least\Desktop\CIS\C++\Labs\CIS170C_RiegerL_LabWK4\CIS170_RiegerL_Lab04\CIS170_RiegerL_Lab04\CIS170C_RiegerL_LabWK04_Source.cpp(25,16): warning C4244:  'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CIS170_RiegerL_Lab04.vcxproj -> C:\Users\least\Desktop\CIS\C++\Labs\CIS170C_RiegerL_LabWK4\CIS170_RiegerL_Lab04\Debug\CIS170_RiegerL_Lab04.exe

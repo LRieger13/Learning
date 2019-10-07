@@ -1,0 +1,3 @@
+﻿  RiegerL_Lab01C_Source.cpp
+f:\visual studio\projects\cis170c_riegerl_lab01c\cis170c_riegerl_lab01c\riegerl_lab01c_source.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CIS170C_RiegerL_Lab01C.vcxproj -> F:\Visual Studio\Projects\CIS170C_RiegerL_Lab01C\Debug\CIS170C_RiegerL_Lab01C.exe
