@@ -1,0 +1,4 @@
+Car,Unknown,Toyota,Camery,7800,4,100,4,1
+SUV,Unknown,Nissan,Juke,20000,6,250
+GasCar,Unknown,Ford,Thunderbird,15000,8,345
+ElectricCar,Unknown,Volkswagen,I.D. Buzz,40000,0,168

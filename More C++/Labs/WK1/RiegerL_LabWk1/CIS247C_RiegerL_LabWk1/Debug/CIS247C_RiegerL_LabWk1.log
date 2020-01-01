@@ -1,0 +1,4 @@
+﻿  Lab_WK1_Source.cpp
+C:\Users\least\Desktop\CIS\CIS247C\LAB_WK1\CIS247C_RiegerL_LabWk1\CIS247C_RiegerL_LabWk1\Lab_WK1_Source.cpp(51,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\least\Desktop\CIS\CIS247C\LAB_WK1\CIS247C_RiegerL_LabWk1\CIS247C_RiegerL_LabWk1\Lab_WK1_Source.cpp(179,15): warning C4552:  '-': result of expression not used
+  CIS247C_RiegerL_LabWk1.vcxproj -> C:\Users\least\Desktop\CIS\CIS247C\LAB_WK1\CIS247C_RiegerL_LabWk1\Debug\CIS247C_RiegerL_LabWk1.exe

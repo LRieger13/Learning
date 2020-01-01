@@ -1,0 +1,5 @@
+﻿  LabWk2_Source.cpp
+C:\Users\least\Desktop\CIS\CIS247C\Labs\WK2\RiegerL_CIS247C_LabWK2\RiegerL_CIS247C_LabWK2\LabWk2_Source.cpp(81,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\least\Desktop\CIS\CIS247C\Labs\WK2\RiegerL_CIS247C_LabWK2\RiegerL_CIS247C_LabWK2\LabWk2_Source.cpp(94,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\least\Desktop\CIS\CIS247C\Labs\WK2\RiegerL_CIS247C_LabWK2\RiegerL_CIS247C_LabWK2\LabWk2_Source.cpp(159,23): warning C4018:  '<': signed/unsigned mismatch
+  RiegerL_CIS247C_LabWK2.vcxproj -> C:\Users\least\Desktop\CIS\CIS247C\Labs\WK2\RiegerL_CIS247C_LabWK2\Debug\RiegerL_CIS247C_LabWK2.exe
