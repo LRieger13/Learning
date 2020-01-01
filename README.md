@@ -18,4 +18,9 @@ Everyday school projects
 > 1. Labs
 > 2. Final Project
 
+# *More C++*
+> 1. Labs
+> 2. Final Project
+
+
 # **More to Come**
