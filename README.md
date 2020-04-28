@@ -2,28 +2,41 @@
 Everyday school projects
 
 # *C++*
-> 1. Labs
-> 2. Final Project
+## Labs
+* WK1
+>    Box Office Program
+* WK2
+>    Calorie Counter Program
+* WK3
+>    Salsa Sales Program
+* WK4
+>    Flip the Coin \ Roll Die Program
+* WK5
+>    Password Requirements Program
+* WK6
+>    Retail Inventory Program
+* WK7
+>    Append to \ Show Records Program
 
 # *More C++*
 ## Labs
 * WK1
->    1. Simple Bank Menu   
+>     Simple Bank Menu   
 * WK2
->    1. Beginner Gambling Game
+>     Beginner Gambling Game
 * WK3
->    1. Begin Overloading Methods
+>     Begin Overloading Methods
 * WK4
->    1. Beginning Composition
+>     Beginning Composition
 * WK5
->    1. Beginning Inheritance
+>     Beginning Inheritance
 * WK6
->    1. Abstract Parents
+>     Abstract Parents
 * WK7
->    1. Polymorphism
+>     Polymorphism
 
 ## Project
-# Final Deliverable
+### Final Deliverable
   
 
 
