@@ -18,6 +18,10 @@ Everyday school projects
 * WK7
 >    Append to \ Show Records Program
 
+## Project
+### Final Deliverable
+>    A programming tutorial program with Dilbert in ASCII to go over fundamentals like: Arrays, Loops, Variable Declaration, etc...
+
 # *More C++*
 ## Labs
 * WK1
